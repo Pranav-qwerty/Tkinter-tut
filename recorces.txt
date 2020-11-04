@@ -1,0 +1,7 @@
+
+Name = Pranav Tripathi
+Phone number = 9644015408
+Gender = Male
+Email address = pranavtripathi1548@gmail.com
+Payment_method = Paytm
+Foodservice = No
